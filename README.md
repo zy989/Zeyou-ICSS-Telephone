@@ -1,6 +1,6 @@
-# Zeyou-ICSS-Telephone
+# Zeyou-Telephone
 
-Hi this is the coding assignment for ICSS on inputing 
+Hi this is the coding assignment on inputing 
 a number and outputing the lowest price 
 if the prefix could be found in either Operaters.
 
